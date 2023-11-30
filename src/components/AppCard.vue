@@ -10,6 +10,7 @@
           <h3>{{ element.name }}</h3>
           <h5>{{ element.address_1 }}</h5>
           <p>{{ element.city }}</p>
+          
       </div>
 
   </section>
